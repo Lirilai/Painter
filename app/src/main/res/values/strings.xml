@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rates</string>
+
+    <string name="load_name">Name is loading</string>
+    <string name="load_code">Code is loading</string>
+    <string name="load_value">Value is loading</string>
+    <string name="reload">Reload</string>
+</resources>

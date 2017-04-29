@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margins">8dp</dimen>
+    <dimen name="paddings">8dp</dimen>
+    <dimen name="value_size">21dp</dimen>
+    <dimen name="title_size">16dp</dimen>
+
+</resources>
