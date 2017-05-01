@@ -6,6 +6,6 @@ import ru.sberbank.learning.rates.networking.CurrenciesList;
  * Created by Lirilai on 29.04.2017.
  */
 
-public interface AsynkInfo {
+public interface AsyncInfo {
     void processFinish(CurrenciesList output);
 }

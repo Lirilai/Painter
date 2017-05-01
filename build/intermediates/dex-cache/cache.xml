@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="C:\Users\Lirilai\AndroidStudioProjects\exchange\app\libs\simple-xml-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="083623424bcfa03bd598e709765bad0816c2375d">
+        <dex dex="C:\Users\Lirilai\AndroidStudioProjects\exchange\app\build\intermediates\pre-dexed\debug\simple-xml-2.7.1_cc369ffef166521dde5a16c552febc87973ef0c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Lirilai\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
         jumboMode="false"
         optimize="true"

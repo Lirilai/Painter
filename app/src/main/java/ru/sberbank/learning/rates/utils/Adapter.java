@@ -24,11 +24,11 @@ import ru.sberbank.learning.rates.networking.Currency;
  * Created by Lirilai on 28.04.2017.
  */
 
-public class Adaptor extends BaseAdapter {
+public class Adapter extends BaseAdapter {
 
     private List<Currency> mCurrency;
 
-    public Adaptor ( List<Currency> mCurrency) {
+    public Adapter(List<Currency> mCurrency) {
         if (mCurrency == null) {
             Log.v("myTag", "Список пуст");
         } else {
